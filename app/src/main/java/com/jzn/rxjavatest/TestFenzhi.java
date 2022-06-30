@@ -5,5 +5,6 @@ package com.jzn.rxjavatest;
  * 文件说明：
  */
 public class TestFenzhi {
-    String aa = "TestFenzhi";
+    String aa = "TestFenzhi11111";
+    String bb = "TestFenzhi12222";
 }
