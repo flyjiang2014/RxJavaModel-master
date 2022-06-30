@@ -9,4 +9,5 @@ public class TestFenzhi {
     String bb = "TestFenzhi12222";
     String aa1 = "TestFenzhi33333";
     String bb1 = "TestFenzhi44444";
+    String bb2 = "TestFenzh55555";
 }
