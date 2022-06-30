@@ -6,7 +6,7 @@ import android.util.Log;
  * Created by jiangzn on 16/9/9.
  */
 public class MyLog {
-    private static String tag = "xiaojingyu";
+    private static String tag = "V1.1";
     public static void d(String txt) {
         Log.d(tag,txt);
     }
