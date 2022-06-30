@@ -7,4 +7,7 @@ package com.jzn.rxjavatest;
 public class TestFenzhi {
     String aa = "TestFenzhi11111";
     String bb = "TestFenzhi12222";
+    String aa1 = "TestFenzhi33333";
+    String bb1 = "TestFenzhi44444";
+    
 }
