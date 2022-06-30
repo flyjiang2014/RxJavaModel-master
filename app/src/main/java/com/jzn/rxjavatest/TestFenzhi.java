@@ -6,4 +6,5 @@ package com.jzn.rxjavatest;
  */
 public class TestFenzhi {
     String aa = "TestFenzhi";
+    String bb = "TestFenzhi111";
 }
